@@ -1,0 +1,53 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/bg_gradient.xml" value="0.1595" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/bg_gradient2.xml" value="0.1245" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/circle_bg.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/edit_text_border.xml" value="0.103" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/et_search_bg.xml" value="0.1815" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/header_bg.xml" value="0.235" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/ic_back.xml" value="0.1275" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/ic_info.xml" value="0.1815" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/ic_menu.xml" value="0.1285" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/notificationcount.xml" value="0.1205" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/drawable/splash_bg.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_login.xml" value="0.20689655172413793" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_read_comic.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_readcomic.xml" value="0.15694444444444444" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_register.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_splash.xml" value="0.11465798045602606" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/dialog_layout.xml" value="0.17993421052631578" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/fragment_about.xml" value="0.11465798045602606" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/fragment_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/fragment_list2.xml" value="0.11315789473684211" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/frament_list.xml" value="0.17464788732394365" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/header.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/intro_screen_1.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/intro_screen_2.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/intro_screen_3.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/item_chapters.xml" value="0.25" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/item_comics.xml" value="0.16151315789473683" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/item_comics_reco.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/item_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/layout_toolbar.xml" value="0.15592105263157896" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/layout/nav_bg.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/raman/AndroidStudioProjects/Capstone/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

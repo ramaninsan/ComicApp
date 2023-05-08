@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Comic Craze</string>
+
+
+
+
+
+
+    <string name="homed">Unlimited action</string>
+    <string name="explore">Explore the fantasies</string>
+    <string name="introdes">More than 100 varieties of comics available</string>
+    <string name="enjoy">Enjoy with friends</string>
+
+
+
+
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+    <string name="error">Error</string>
+    <string name="aboutus">About Us</string>
+    <string name="profile">Profile</string>
+    <string name="myorders">Orders</string>
+    <string name="menu">Comics</string>
+    <string name="validname">Enter valid name</string>
+    <string name="vaildemail">Enter valid email</string>
+    <string name="validpass">Enter valid password</string>
+    <string name="regemail">Enter registered email</string>
+    <string name="regpass">Enter registered password</string>
+
+    <string name="alert">Alert</string>
+    <string name="logout">Are you sure you want to logout?</string>
+
+
+    <string name="desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+
+    <string-array name="lang_array">
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+    </string-array>
+
+
+</resources>

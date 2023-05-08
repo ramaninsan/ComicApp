@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp">
+
+
+<TextView
+    android:id="@+id/tvAccount"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="@color/white"
+    android:textSize="16sp"
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="20dp"
+    android:text="Your Account"/>
+
+    <RadioGroup
+        android:id="@+id/rgStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_below="@+id/tvAccount"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp">
+
+        <RadioButton
+            android:id="@+id/rbThin"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textSize="15sp"
+            android:text="Public"
+            android:textColor="@color/white"/>
+
+        <RadioButton
+            android:id="@+id/rbThick"
+            android:layout_width="wrap_content"
+
+            android:layout_height="35dp"
+            android:textSize="15sp"
+            android:text="Private"
+            android:textColor="@color/white"/>
+
+    </RadioGroup>
+
+
+    <View
+        android:id="@+id/vw"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_below="@+id/rgStyle"
+        android:layout_marginTop="5dp"
+        android:layout_height="0.5dp"/>
+
+
+    <TextView
+        android:id="@+id/tvNotifications"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_below="@+id/vw"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="16dp"
+        android:text="Notifications"/>
+
+    <RadioGroup
+        android:id="@+id/rgNoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_below="@+id/tvNotifications"
+        android:orientation="vertical"
+
+        android:layout_marginTop="10dp">
+
+        <RadioButton
+            android:id="@+id/rbON"
+
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textSize="15sp"
+            android:text="ON"
+            android:textColor="@color/white"/>
+
+        <RadioButton
+            android:id="@+id/rbOff"
+            android:layout_width="wrap_content"
+
+            android:layout_height="35dp"
+            android:textSize="15sp"
+            android:text="OFF"
+            android:textColor="@color/white"/>
+
+    </RadioGroup>
+
+
+</RelativeLayout>
